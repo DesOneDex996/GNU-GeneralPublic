@@ -1,0 +1,2 @@
+# GNU-GeneralPublic
+The GNU Lesser General Public License is meant for free software that allows linking with non-free software. It was originally called the "GNU Library GPL," but the name was changed to remove the implication that all libraries should be licensed this way. "Lesser" means the license does less to protect the user's freedom than the regular GNU GPL. See GNU Affero General Public License, free software, open source, copyright, Free Software Foundation and GNU.
